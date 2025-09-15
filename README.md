@@ -1,6 +1,6 @@
 This Repository is for my Capstone Project about Machine Learning. The main objective of this project is identifying the churn rate of a Telco Company and what can be done about it.
 
-A. Business Understanding
+==Business Understanding==
 Customer churn represents a significant loss for telecommunication companies, as acquiring new customers is far more expensive than retaining existing ones.
 This project addresses the following business goals:
 - Predict which customers are likely to churn.
